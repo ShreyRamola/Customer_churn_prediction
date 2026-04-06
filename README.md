@@ -110,5 +110,5 @@ This project shows how Naive Bayes can be used for predicting customer churn in 
 
 👨‍💻 Author
 
-Your Name
+Shrey Ramola
 B.Tech CSE Student
